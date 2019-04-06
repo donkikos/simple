@@ -13,3 +13,11 @@
 # Books
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+# Hacks
+
+* [Easy way to test TURN server](https://stackoverflow.com/questions/34030188/easy-way-to-test-turn-server)
+
+# Online tools
+
+* [Explain shell params](https://explainshell.com/)
