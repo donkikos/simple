@@ -6,6 +6,7 @@
 * [ip COMMAND CHEAT SHEET for Red Hat Enterprise Linux](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
 * [‘ip’ Command cheat sheet (Command Line Reference)](https://www.thegeekdiary.com/ip-command-cheat-sheet-command-line-reference/)
 * [ROS Cheat Sheet](https://mirror.umd.edu/roswiki/attachments/de/ROScheatsheet.pdf)
+* [Netcat Cheat Sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 
 ## Tutorials
 
