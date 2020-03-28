@@ -14,6 +14,7 @@
 * [Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 * [BUILD YOUR OWN BLOCKCHAIN: A PYTHON TUTORIAL](http://ecomunsing.com/build-your-own-blockchain)
 * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+* [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
 ## Books
 
