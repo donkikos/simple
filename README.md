@@ -16,6 +16,9 @@
 * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 * [How Elliptic Curve Cryptography Works](https://www.allaboutcircuits.com/technical-articles/elliptic-curve-cryptography-in-embedded-systems/)
+* [A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
+  * <https://www.youtube.com/watch?v=Ymt47wXUDEU>
+  * <https://www.khanacademy.org/partner-content/pixar/color/color-space/v/color8-final>
 
 ## Books
 
