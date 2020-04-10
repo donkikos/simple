@@ -32,3 +32,7 @@
 
 * [Explain shell params](https://explainshell.com/)
 * [Learn, build, & test Regular Expressions (RegEx)](https://regexr.com/)
+
+## Business
+
+* [Are you a platform or a marketplace?](https://fin.plaid.com/articles/are-you-a-platform-or-a-marketplace/)
