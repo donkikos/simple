@@ -22,6 +22,7 @@
 * [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/#machine-learning,-and-the-training-of-neural-nets)
 * [DefaultKeyBinding.dict](https://web.archive.org/web/20161220060333/http://osxnotes.net/keybindings.html) (Web Archive)
 * [Explanaria - Groups & Clear Crystal Conundrums](https://explanaria.github.io/crystalgroups/)
+* [Bartosz Ciechanowski - GPS](https://ciechanow.ski/gps/)
 
 ## Books
 
